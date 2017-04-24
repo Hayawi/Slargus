@@ -1,0 +1,1794 @@
+fileFormatVersion: 2
+guid: 7415bdcf7ac5ac94bb5b0737151e2463
+timeCreated: 1492989711
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LD38TutorialSprites_0
+    21300002: LD38TutorialSprites_1
+    21300004: LD38TutorialSprites_2
+    21300006: LD38TutorialSprites_3
+    21300008: LD38TutorialSprites_4
+    21300010: LD38TutorialSprites_5
+    21300012: LD38TutorialSprites_6
+    21300014: LD38TutorialSprites_7
+    21300016: LD38TutorialSprites_8
+    21300018: LD38TutorialSprites_9
+    21300020: LD38TutorialSprites_10
+    21300022: LD38TutorialSprites_11
+    21300024: LD38TutorialSprites_12
+    21300026: LD38TutorialSprites_13
+    21300028: LD38TutorialSprites_14
+    21300030: LD38TutorialSprites_15
+    21300032: LD38TutorialSprites_16
+    21300034: LD38TutorialSprites_17
+    21300036: LD38TutorialSprites_18
+    21300038: LD38TutorialSprites_19
+    21300040: LD38TutorialSprites_20
+    21300042: LD38TutorialSprites_21
+    21300044: LD38TutorialSprites_22
+    21300046: LD38TutorialSprites_23
+    21300048: LD38TutorialSprites_24
+    21300050: LD38TutorialSprites_25
+    21300052: LD38TutorialSprites_26
+    21300054: LD38TutorialSprites_27
+    21300056: LD38TutorialSprites_28
+    21300058: LD38TutorialSprites_29
+    21300060: LD38TutorialSprites_30
+    21300062: LD38TutorialSprites_31
+    21300064: LD38TutorialSprites_32
+    21300066: LD38TutorialSprites_33
+    21300068: LD38TutorialSprites_34
+    21300070: LD38TutorialSprites_35
+    21300072: LD38TutorialSprites_36
+    21300074: LD38TutorialSprites_37
+    21300076: LD38TutorialSprites_38
+    21300078: LD38TutorialSprites_39
+    21300080: LD38TutorialSprites_40
+    21300082: LD38TutorialSprites_41
+    21300084: LD38TutorialSprites_42
+    21300086: LD38TutorialSprites_43
+    21300088: LD38TutorialSprites_44
+    21300090: LD38TutorialSprites_45
+    21300092: LD38TutorialSprites_46
+    21300094: LD38TutorialSprites_47
+    21300096: LD38TutorialSprites_48
+    21300098: LD38TutorialSprites_49
+    21300100: LD38TutorialSprites_50
+    21300102: LD38TutorialSprites_51
+    21300104: LD38TutorialSprites_52
+    21300106: LD38TutorialSprites_53
+    21300108: LD38TutorialSprites_54
+    21300110: LD38TutorialSprites_55
+    21300112: LD38TutorialSprites_56
+    21300114: LD38TutorialSprites_57
+    21300116: LD38TutorialSprites_58
+    21300118: LD38TutorialSprites_59
+    21300120: LD38TutorialSprites_60
+    21300122: LD38TutorialSprites_61
+    21300124: LD38TutorialSprites_62
+    21300126: LD38TutorialSprites_63
+    21300128: LD38TutorialSprites_64
+    21300130: LD38TutorialSprites_65
+    21300132: LD38TutorialSprites_66
+    21300134: LD38TutorialSprites_67
+    21300136: LD38TutorialSprites_68
+    21300138: LD38TutorialSprites_69
+    21300140: LD38TutorialSprites_70
+    21300142: LD38TutorialSprites_71
+    21300144: LD38TutorialSprites_72
+    21300146: LD38TutorialSprites_73
+    21300148: LD38TutorialSprites_74
+    21300150: LD38TutorialSprites_75
+    21300152: LD38TutorialSprites_76
+    21300154: LD38TutorialSprites_77
+    21300156: LD38TutorialSprites_78
+    21300158: LD38TutorialSprites_79
+    21300160: LD38TutorialSprites_80
+    21300162: LD38TutorialSprites_81
+    21300164: LD38TutorialSprites_82
+    21300166: LD38TutorialSprites_83
+    21300168: LD38TutorialSprites_84
+    21300170: LD38TutorialSprites_85
+    21300172: LD38TutorialSprites_86
+    21300174: LD38TutorialSprites_87
+    21300176: LD38TutorialSprites_88
+    21300178: LD38TutorialSprites_89
+    21300180: LD38TutorialSprites_90
+    21300182: LD38TutorialSprites_91
+    21300184: LD38TutorialSprites_92
+    21300186: LD38TutorialSprites_93
+    21300188: LD38TutorialSprites_94
+    21300190: LD38TutorialSprites_95
+    21300192: LD38TutorialSprites_96
+    21300194: LD38TutorialSprites_97
+    21300196: LD38TutorialSprites_98
+    21300198: LD38TutorialSprites_99
+    21300200: LD38TutorialSprites_100
+    21300202: LD38TutorialSprites_101
+    21300204: LD38TutorialSprites_102
+    21300206: LD38TutorialSprites_103
+    21300208: LD38TutorialSprites_104
+    21300210: LD38TutorialSprites_105
+    21300212: LD38TutorialSprites_106
+    21300214: LD38TutorialSprites_107
+    21300216: LD38TutorialSprites_108
+    21300218: LD38TutorialSprites_109
+    21300220: LD38TutorialSprites_110
+    21300222: LD38TutorialSprites_111
+    21300224: LD38TutorialSprites_112
+    21300226: LD38TutorialSprites_113
+    21300228: LD38TutorialSprites_114
+    21300230: LD38TutorialSprites_115
+    21300232: LD38TutorialSprites_116
+    21300234: LD38TutorialSprites_117
+    21300236: LD38TutorialSprites_118
+    21300238: LD38TutorialSprites_119
+    21300240: LD38TutorialSprites_120
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LD38TutorialSprites_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 791
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_1
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 915
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_2
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 936
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_3
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 915
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_4
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 915
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_5
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 915
+        width: 4
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_6
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 915
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_7
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 915
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_8
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 915
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_9
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 915
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_10
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 915
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_11
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 915
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_12
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 915
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_13
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 915
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_14
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 915
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_15
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 915
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_16
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 915
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_17
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 915
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_18
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 915
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_19
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 791
+        width: 84
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_20
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 872
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_21
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 872
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_22
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 872
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_23
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 872
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_24
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 872
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_25
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 872
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_26
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 872
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_27
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 872
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_28
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 872
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_29
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 872
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_30
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 872
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_31
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 872
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_32
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 872
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_33
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 872
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_34
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 872
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_35
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 738
+        width: 220
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_36
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 717
+        width: 141
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_37
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 520
+        width: 220
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_38
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 450
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_39
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 450
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_40
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 450
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_41
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 450
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_42
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 450
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_43
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 450
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_44
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 450
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_45
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 471
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_46
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 450
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_47
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 450
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_48
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 450
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_49
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 450
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_50
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 450
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_51
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 450
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_52
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 450
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_53
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 450
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_54
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 450
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_55
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 450
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_56
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 450
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_57
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 450
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_58
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 450
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_59
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 450
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_60
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 450
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_61
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 443
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_62
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 450
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_63
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 450
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_64
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 450
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_65
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 450
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_66
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 450
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_67
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 450
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_68
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 450
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_69
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 407
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_70
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 428
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_71
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 407
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_72
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 407
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_73
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 407
+        width: 4
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_74
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 407
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_75
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 407
+        width: 4
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_76
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 407
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_77
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 406
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_78
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 406
+        width: 4
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_79
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 406
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_80
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 406
+        width: 4
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_81
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 406
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_82
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 406
+        width: 4
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_83
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 406
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_84
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 407
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_85
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 400
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_86
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 407
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_87
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 407
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_88
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 407
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_89
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 400
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_90
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 407
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_91
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 407
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_92
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 400
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_93
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 407
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_94
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 407
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_95
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 407
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_96
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 407
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_97
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 407
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_98
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 406
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_99
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 406
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_100
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 406
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_101
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 406
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_102
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 406
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_103
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 406
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_104
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 406
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_105
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 406
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_106
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 399
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_107
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 406
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_108
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 406
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_109
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 406
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_110
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 406
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_111
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 406
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_112
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 406
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_113
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 279
+        width: 107
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_114
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 304
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_115
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 279
+        width: 109
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_116
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 274
+        width: 107
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_117
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 299
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_118
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 274
+        width: 109
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_119
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 63
+        width: 220
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LD38TutorialSprites_120
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 56
+        width: 220
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
